@@ -9,3 +9,9 @@
 내용요약
 
 ```
+
+# init
+```
+nickname 폴더생성
+1day 1commit
+```
