@@ -1,6 +1,6 @@
 # TIL
 
-![Today I Learned](http://todayilearned.ca/wp-content/uploads/2017/02/16652527_10158108817515580_1678875211_n.png)
+![Today I Learned](https://i.kym-cdn.com/entries/icons/original/000/019/513/til.jpg)
 
 # Best Practice Git Commit Message
 ```
