@@ -1,13 +1,10 @@
 ## TIL
-
 ![Today I Learned](https://i.kym-cdn.com/entries/icons/original/000/019/513/til.jpg)
 
 ## Commit Message
 ```
-[nickname] 제목
-
+{nickname} 제목
 내용요약
-
 ```
 
 ## PR
@@ -15,6 +12,6 @@
 
 # init
 ```
-nickname 폴더생성
-1day 1commit
+{nickname} 폴더생성
+2 commit in 1 week
 ```
